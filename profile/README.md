@@ -1,7 +1,6 @@
-**Multi-Learn** is a **Multiple Learning** focused organization that gathers multiple projects developed as a result of close international collaboration.  
-Originally focused on **multi-view learning**, the Multi-Learn project now embraces a broader scope, encompassing diverse learning paradigms including **large-scale single-image learning**, **segmentation**, and **multi-modal approaches**.
----
+**Multi-Learn** is a **Multiple Learning** focused organization that gathers multiple projects developed as a result of close international collaboration. Originally focused on **multi-view learning**, the Multi-Learn projects now embraces a broader scope, encompassing diverse learning paradigms including **large-scale single-image learning**, **segmentation**, and **multi-modal approaches**.
 
+---
 # <span style="color:#2b6cb0">From Multi-View to Multiple Learning Strategies</span>
 
 **Multi-Learn** is a research and development initiative that explores a wide spectrum of learning paradigms in machine learning;
