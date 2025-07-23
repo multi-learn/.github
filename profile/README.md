@@ -25,14 +25,17 @@ It serves as a hub for interoperable tools and benchmarks designed to support re
 
 It serves as a hub for **interoperable tools** and **reproducible benchmarks**, enabling scalable ML workflows.
 
-### 🧰 Key Projects and Resources
+## 🧰 Key Projects and Resources
 
-- **Summit** (*Supervised MultiModal Integration Tool*): A framework to benchmark mono- and multi-view classifiers on custom datasets.
-- **scikit-multimodallearn**: A Python package (scikit-learn compatible) for multimodal data classification.
-- **MAGE** (*Multi-view Artificial Generation Engine*): A toolkit to generate synthetic multi-view datasets for controlled experimentation.
-- **Multimodal Protein Dataset**: A dataset and toolkit for classifying highly multi-functional proteins using multimodal biological data.
-- **LIS²** (*Large Image Split Segmentation*): A toolbox for large-scale, single-image semantic segmentation.
-  
+### ![Summit](summit.png) **Summit** (*Supervised MultiModal Integration Tool*): A framework to benchmark mono- and multi-view classifiers on custom datasets. (repo summit)[https://github.com/multi-learn/summit]
+---
+### ![scikit-multimodallearn](multimodallearn.png) **scikit-multimodallearn**: A Python package (scikit-learn compatible) for multimodal data classification. (repo multimodallearn)[https://github.com/multi-learn/scikit-multimodallearn]
+---
+### ![MAGE](mage.png) **MAGE** (*Multi-view Artificial Generation Engine*): A toolkit to generate synthetic multi-view datasets for controlled experimentation. [repo MAGE](https://github.com/multi-learn/mage)
+---
+### ![Protein Dataset](dataset.png) **Multimodal Protein Dataset**: A dataset and toolkit for classifying highly multi-functional proteins using multimodal biological data. [repo Protein Dataset](https://github.com/multi-learn/muppi_neurips)
+---
+### ![LIS²](lis2.png) **LIS²** (*Large Image Split Segmentation*): A toolbox for large-scale, single-image semantic segmentation. [repo LIS²](https://github.com/multi-learn/lis2)
 ---
 
 **Multi-Learn** brings together these tools to support the **design**, **evaluation**, and **comparison** of learning strategies across real and simulated datasets, and across a variety of modalities and learning tasks.
