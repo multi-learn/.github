@@ -31,9 +31,9 @@ It serves as a hub for **interoperable tools** and **reproducible benchmarks**, 
 
 ### 🤝 Collaborating Institutions
 
-- [ULaval](https://www.ulaval.ca/)'s [**GRAAL**](https://graal.ift.ulaval.ca/)
-- [AMU](https://www.univ-amu.fr/)'s LIS machine learning team [**Qarma**](https://qarma.lis-lab.fr/)
-- [ARCHIMEDE](https://labex-archimede.univ-amu.fr/)'s Development team [**ValoCell**](https://dev.pages.lis-lab.fr/cellule_developpement/)
-- [CHUQ](https://www.chudequebec.ca/accueil.aspx)'s omics-oriented team [**Corbeil Lab**](https://corbeillab.genome.ulaval.ca/)
-- [LAM](https://www.lam.fr/)'s Laboratoire d'Astrophysique de Marseille - Learning Projects [**BigSF**](https://people.lam.fr/zavagno.annie/big_data_and_machine_learning.html)
-- [TAGC](https://tagc.univ-amu.fr/)'s Theories and Approaches of Genomic Complexity [gihub TAGC](https://github.com/TAGC-Inserm)
+- [**ULaval**](https://www.ulaval.ca/)'s [**GRAAL**](https://graal.ift.ulaval.ca/)
+- [**AMU**](https://www.univ-amu.fr/)'s LIS machine learning team [**Qarma**](https://qarma.lis-lab.fr/)
+- [**ARCHIMEDE**](https://labex-archimede.univ-amu.fr/)'s Development team [**ValoCell**](https://dev.pages.lis-lab.fr/cellule_developpement/)
+- [**CHUQ**](https://www.chudequebec.ca/accueil.aspx)'s omics-oriented team [**Corbeil Lab**](https://corbeillab.genome.ulaval.ca/)
+- [**LAM**](https://www.lam.fr/)'s Laboratoire d'Astrophysique de Marseille - Learning Projects [**BigSF**](https://people.lam.fr/zavagno.annie/big_data_and_machine_learning.html)
+- [**TAGC**](https://tagc.univ-amu.fr/)'s Theories and Approaches of Genomic Complexity [**gihub TAGC**](https://github.com/TAGC-Inserm)
