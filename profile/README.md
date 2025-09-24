@@ -35,5 +35,6 @@ It serves as a hub for **interoperable tools** and **reproducible benchmarks**, 
 ---
 ### ![LIS²](lis2-small.png) **LIS²** (*Large Image Split Segmentation*): A toolbox for large-scale, single-image semantic segmentation. [repo LIS²](https://github.com/multi-learn/lis2)
 ---
-
+### ![LIS²-SKELETON](lis2-small.png) **LIS²-SKELETON** (*Large Image Split Segmentation skeleton*): external package for skeletization task of Galactic plane segmentation. [repo LIS²-SKELETON](https://github.com/multi-learn/lis2-skeleton)
+---
 **Multi-Learn** brings together these tools to support the **design**, **evaluation**, and **comparison** of learning strategies across real and simulated datasets, and across a variety of modalities and learning tasks.
